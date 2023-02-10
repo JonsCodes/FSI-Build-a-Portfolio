@@ -1,4 +1,21 @@
+body{  
+    font-family:Georgia, Arial, Helvetica, Sans-serif,serif;
+    font-size:15px;
+    color:#000;
+    background: lightslategray;
+}
+ 
 h1 {
-    color:blue;
+    font-size:50px;
+    color: #000;
+}
+ 
+h3 {
+    font-size:22px;
+    color: #000;
+}
 
+p { 
+    font-size: 120%; 
+    color: black; 
 }
